@@ -7,6 +7,8 @@
  * Onboard LEDs (active LOW):
  *   RX LED : Pin 17  — lit while sequence is running
  *   TX LED : Pin 30  — lit when sequence is complete
+ * 
+ * John Hass <john@getanp.com>
  */
 
 #include <Keyboard.h>
