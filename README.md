@@ -5,3 +5,5 @@
 This has been designed with the Arduino Pro Micro in mind, however it should support any Arduino that supports HID mode to act as a Keyboard.
 
 Read the code somethings have to be filled in like SSID enrollment username and password.
+
+<video src="https://github.com/john8675309/Chromebook-Enrollment-2026/raw/main/chromebook-enrollment-small.mp4" controls width="800"></video>
