@@ -6,4 +6,3 @@ This has been designed with the Arduino Pro Micro in mind, however it should sup
 
 Read the code somethings have to be filled in like SSID enrollment username and password.
 
-[![Watch the video](https://img.youtube.com/vi/Syj12joqBVg/0.jpg)](https://github.com/john8675309/Chromebook-Enrollment-2026/raw/main/chromebook-enrollment-small.mp4)
